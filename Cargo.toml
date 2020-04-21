@@ -1,0 +1,11 @@
+[package]
+name = "teledraw"
+version = "0.1.0"
+authors = ["Christian Seybert <christian.seybert@stud.tu-darmstadt.de>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+glium = "0.27.0"
+byteorder = "*"
